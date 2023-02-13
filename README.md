@@ -22,33 +22,33 @@ react基座
 ### 文件规范
 
 页面级别约定如下                                   <br />
-
-|-- common
-|   |-- assets
-|   |   |-- activity
-|   |       |-- a.png
-|   |-- component-x
-|   |   |-- index.tsx
-|   |   |-- style.module.less
-|   |-- component-y
-|   |   |-- index.tsx
-|   |   |-- style.module.less
-|   |-- utils
-|   |   |-- request.ts
-|   |   |-- time.ts
-|-- context
-|   |-- setting.ts
-|   |-- user.tsx
-|-- pages
-|   |-- a
-|   |   |-- detail.tsx
-|   |   |-- list.tsx
-|   |   |-- style.module.less
-|   |   |-- common
-|   |   |   |-- assets
-|   |   |   |-- component-x
-|   |   |   |   |--index.tsx
-|   |   |   |-- utils
-|   |-- b
-|   |   |-- index.tsx
-|   |   |-- style.module.less
+<br />
+|-- common    <br />
+|   |-- assets   <br />
+|   |   |-- activity    <br />
+|   |       |-- a.png  <br />
+|   |-- component-x  <br />
+|   |   |-- index.tsx   <br />
+|   |   |-- style.module.less   <br />
+|   |-- component-y   <br />
+|   |   |-- index.tsx   <br />
+|   |   |-- style.module.less   <br />
+|   |-- utils   <br />
+|   |   |-- request.ts   <br />
+|   |   |-- time.ts   <br />
+|-- context   <br />
+|   |-- setting.ts   <br />
+|   |-- user.tsx   <br />
+|-- pages   <br />
+|   |-- a   <br />
+|   |   |-- detail.tsx   <br />
+|   |   |-- list.tsx   <br />
+|   |   |-- style.module.less   <br />
+|   |   |-- common   <br />
+|   |   |   |-- assets   <br />
+|   |   |   |-- component-x   <br />
+|   |   |   |   |--index.tsx   <br />
+|   |   |   |-- utils   <br />
+|   |-- b   <br />
+|   |   |-- index.tsx   <br />
+|   |   |-- style.module.less   <br />
