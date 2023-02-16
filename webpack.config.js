@@ -87,7 +87,7 @@ module.exports = {
   resolve: {
     extensions: [".tsx", '.ts', '.js'],
     alias: {
-      '@': resolvePath('src'),
+      '@/': resolvePath('src'),
     }
   },
   devServer: {
