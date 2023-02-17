@@ -37,9 +37,9 @@ react基座
 |   |-- utils
 |   |   |-- request.ts
 |   |   |-- time.ts
-|-- context
-|   |-- setting.ts
-|   |-- user.tsx
+|   |-- context
+|   |   |-- setting.ts
+|   |   |-- user.tsx
 |-- pages
 |   |-- a
 |   |   |-- detail.tsx

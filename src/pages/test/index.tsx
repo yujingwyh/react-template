@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 import styles from "./style.module.less";
 
 import { config } from "@/common/utils/config";
-import { SettingContext } from "@/context/setting";
+import { SettingContext } from "@/common/context/setting";
 import { useList } from "hatom";
 import { sleep } from "@/common/utils/helper";
 import { ForControl, IfElseControl } from "@/common/control";
